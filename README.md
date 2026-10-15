@@ -1,2 +1,2 @@
 # Server-Setup-Configs
-My headless server config for Fedora Minimal Hardened
+My headless server config for Ubuntu Server Minimized

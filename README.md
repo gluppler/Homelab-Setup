@@ -1,2 +1,2 @@
-# Server-Setup-Configs
-My headless server config for Ubuntu Server Minimized
+# Homelab-Setup
+My LTS Ubuntu Server Minimized Homelab Setup with SSH Hardening, Tailscale, and lightweight containers for Privacy Sandboxing
